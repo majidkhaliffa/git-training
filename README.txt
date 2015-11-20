@@ -7,3 +7,4 @@ Couleurs de l'application:
 Rouge sur fond vert
 Titre de l'application:
 Resaspi
+Les tâches techniques à effectuer sont dans le fichier TODO.txt
